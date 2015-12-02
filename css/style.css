@@ -1,0 +1,23 @@
+body{
+	background-color:white;
+}
+.portfolio-thumbnail{
+
+	background-color:LightSlateGray;
+	border-width: 2px;
+	border-style:none;
+	border-color:#F5F5DC;
+}
+.jumbotron{
+	text-align: center;
+	background-color:#BDBDBD;
+}
+.social-buttons{
+	background-color: white;
+}
+.container{
+	background-color: white;
+}
+.nav_container{
+	background-color: white;
+}
